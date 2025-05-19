@@ -7,6 +7,6 @@
 * **Programa:** Ingeniería Industrial
 
 
-## **Videos**
+## Videos
 
 * **Entrega 2:** https://youtu.be/sZ9feVfekIM
