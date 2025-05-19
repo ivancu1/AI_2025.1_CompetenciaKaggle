@@ -5,3 +5,7 @@
 **Cédula:** 1113686940
 
 **Programa:** Ingeniería Industrial
+
+# Videos
+
+**Entrega 2:** https://youtu.be/sZ9feVfekIM
