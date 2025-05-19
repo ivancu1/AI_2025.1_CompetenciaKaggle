@@ -1,12 +1,12 @@
 # AI_2025.1_CompetenciaKaggle
 
-**Estudiante:** Iván Steven Cuero Martínez
+* **Estudiante:** Iván Steven Cuero Martínez
 
-**Cédula:** 1113686940
+* **Cédula:** 1113686940
 
-**Programa:** Ingeniería Industrial
+* **Programa:** Ingeniería Industrial
 
 
 ## Videos
 
-**Entrega 2:** https://youtu.be/sZ9feVfekIM
+* **Entrega 2:** https://youtu.be/sZ9feVfekIM
